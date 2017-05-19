@@ -1,0 +1,6 @@
+You can use these servers without logging in:
+
+https://jenkins.qa.ubuntu.com
+https://jenkins.mono-project.com
+
+In order to test my application.
